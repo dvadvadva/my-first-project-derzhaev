@@ -1,0 +1,30 @@
+commit 249c7a793a29a548eca3df3f10c75dc391b0ce2c
+Author: dvadvadva <70339112+dvadvadva@users.noreply.github.com>
+Date:   Tue May 5 18:15:08 2026 +0300
+
+    Update README.md
+    
+    Обновлено описание в README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 20a8a0245c22b34bfaac043a87c31c3bbce9750b
+Author: unknown <dvadva20@yandex.ru>
+Date:   Tue May 5 17:40:48 2026 +0300
+
+    Создана базовая структура проекта: добавлены main.py, папки src и docs
+
+ docs/info.txt | 0
+ main.py       | 1 +
+ src/utils.py  | 0
+ 3 files changed, 1 insertion(+)
+
+commit 7caae6ad52a8e710d41415a72a82c6770d628a13
+Author: dvadvadva <70339112+dvadvadva@users.noreply.github.com>
+Date:   Tue May 5 16:33:20 2026 +0300
+
+    Initial commit
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
